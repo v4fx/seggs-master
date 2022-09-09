@@ -3,7 +3,6 @@
  - use /givenew to get 3.0.5 items and weaps
  
 <h3>Updates:</h3><br>
-
 <h4>3/9/2022</h4>
 1)added enka command back<br>
 2)added windy(shit) command<br>
